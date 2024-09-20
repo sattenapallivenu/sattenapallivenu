@@ -46,11 +46,11 @@ I'm always eager to learn new technologies and improve my skills, with a particu
 
 ### 🔍 <span style="font-size: 1.5em;">Where to find me</span>
 
-<p><a href="https://github.com/sattenapallivenu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="www.linkedin.com/in/venu-sattenapalli-57ab64218" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/sattenapallivenu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="www.linkedin.com/in/venu-sattenapalli-57ab64218" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sattenapallivenu&show_icons=true&locale=en&layout=compact" alt="sattenapallivenu" /></p><a href="https://linkedin.com/in/venu sattenapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venu sattenapalli" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sattenapallivenu&show_icons=true&locale=en&layout=compact" alt="sattenapallivenu" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sattenapallivenu&show_icons=true&locale=en" alt="sattenapallivenu" /></p>
